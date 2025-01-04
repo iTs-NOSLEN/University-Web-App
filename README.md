@@ -1,1 +1,3 @@
 # University-Web-App
+
+The web application is designed to manage a university's course database, offering features for adding, editing, deleting, and viewing courses. It combines HTML, CSS, JavaScript, PHP, and MySQL to provide a responsive and user-friendly interface. Users can securely log in, with the system using SHA-256 encryption to verify credentials. The application includes both client- and server-side validation to maintain data integrity. Administrators can manage users and courses, while the system protects against SQL injection using parameterized queries. Additionally, the app features session management and a footer with navigation options for users.
